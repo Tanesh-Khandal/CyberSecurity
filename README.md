@@ -1,1 +1,2 @@
 # CyberSecurity
+In this project, I worked as a security professional responsible for managing file and directory permissions in a Linux environment for a research team. The primary goal was to ensure that access to files and directories aligned with organizational security policies. By examining existing permissions, identifying misconfigurations, and correcting unauthorized access, I strengthened the security posture of the system. This project demonstrates my ability to apply Linux permission management concepts to real-world cybersecurity scenarios.
